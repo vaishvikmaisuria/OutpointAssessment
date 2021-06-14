@@ -1,0 +1,6 @@
+argparse
+flask
+flask_cors
+requests
+simplejson
+numpy
